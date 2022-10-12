@@ -14,7 +14,13 @@ public class Cat {
         System.out.println("¯\\_(\"/)_/¯");
         System.out.println("Dear Jen,\nYou got an \"A\"!\n\nSincerely,\nThe teacher");
         System.out.println(" * *\n* * *\n * *");
-        System.out.println("Hi \"\\\"\n yay");
+
+        // my own
+        System.out.println("Hi \"\\\"\n yay \noooo");
+
+        //challenge
+        System.out.println("  /\\\n /\"\"\\\n/\"  \"\\\n\\\"  \"/\n \\\"\"/\n  \\/");
+
 
 
     }
